@@ -10,7 +10,6 @@
 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TitoJosu23&theme=radical)
 
 ### 🛠 &nbsp;Tech Stack
@@ -46,4 +45,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TitoJosu23&theme=radical)
