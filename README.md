@@ -11,8 +11,6 @@
 
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="690" height="420" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TitoJosu23&theme=light)
-
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -46,3 +44,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TitoJosu23&theme=light)
