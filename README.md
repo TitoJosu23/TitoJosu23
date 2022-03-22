@@ -6,7 +6,7 @@
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 
 ✉️ &nbsp;You can email me at josuearmas00z@gmail.com. \
-📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1VEw5SVeqf3osy8otIGMXnsNFwwp_RER7/view?usp=sharing) for more details about work experience.
+📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1VEw5SVeqf3osy8otIGMXnsNFwwp_RER7/view?usp=sharing) for more details about me.
 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
