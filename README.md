@@ -8,7 +8,7 @@
 ✉️ &nbsp;You can email me at josuearmas00z@gmail.com. \
 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1VEw5SVeqf3osy8otIGMXnsNFwwp_RER7/view?usp=sharing) for more details about me.
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TitoJosu23&theme=radical)
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ### 🛠 &nbsp;Tech Stack
