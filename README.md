@@ -1,11 +1,10 @@
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
 
-💡 &nbsp; I'm a software developer and researcher at Credit Suisse, working on production of trading applications using the .NET framework. \
-💻 &nbsp;I'm currently performing research in the field of multimodal detection of human behavioral patterns at VNIT, Nagpur.\
-🎓&nbsp;I graduated form Visvesvaraya National Institute of Technology, Nagpur (B.Tech, Computer Science and Engineering, Batch of 2021).\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.\
-✍️ &nbsp;In my free time, I play guitar, football and pursue writing as my hobbies.\
+💻 &nbsp; I am a dedicated full stack web developer focused on learning new languages and improving my design. \
+🎓 &nbsp;I graduated from 4GeeksAcademy (USA/Miami) 2021/2022 .\
+✍️ &nbsp;In my free time, I play VideoGames, football and pursue writing as my hobbies.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
+
 ✉️ &nbsp;You can email me at josuearmas00z@gmail.com .I'll try to respond as soon as possible!\
 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1CqJoOAelUgnIOMNHqZAlMxR0F3nRoJuo/view?usp=sharing) for more details about work experience.
 
