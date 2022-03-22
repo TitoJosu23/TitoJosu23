@@ -1,7 +1,7 @@
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
 
 
-💻 &nbsp; I am a dedicated full stack web developer focused on learning new languages and improving my design. \
+💻 &nbsp;I am a dedicated full stack web developer focused on learning new languages and improving my design. \
 🎓 &nbsp;I graduated from 4GeeksAcademy (USA/Miami) 2021/2022 .\
 ✍️ &nbsp;In my free time, I play VideoGames, football and pursue writing as my hobbies.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
