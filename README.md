@@ -44,4 +44,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=curiousgrids&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TitoJosu23&theme=radical)
