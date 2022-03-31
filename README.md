@@ -4,7 +4,7 @@
 💻 &nbsp;I am a dedicated full stack web developer focused on learning new languages and improving my design. \
 🎓 &nbsp;I graduated from 4GeeksAcademy (USA/Miami) 2021/2022 .\
 ✍️ &nbsp;In my free time, I play VideoGames, football and pursue writing as my hobbies.\
-💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
+💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!
 
 ✉️ &nbsp;You can email me at josuearmas00z@gmail.com. \
 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1VEw5SVeqf3osy8otIGMXnsNFwwp_RER7/view?usp=sharing) for more details about me.
